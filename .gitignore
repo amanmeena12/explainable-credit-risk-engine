@@ -1,0 +1,20 @@
+#-------------------------------------------------------------------------------
+# Name:        Untitled1
+# Purpose:
+#
+# Author:      am199
+#
+# Created:     12-10-2026
+# Copyright:   (c) am199 2026
+# Licence:     <your licence>
+#-------------------------------------------------------------------------------
+
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+
+# Generated dataset and trained model
+credit_data.csv
+credit_risk_model.joblib
